@@ -4,7 +4,7 @@ constant: CONNECTION_NAME {
 }
 
 constant: GCP_PROJECT {
-  value: "deepshri-450-2023073001170100"
+  value: "data-cloud Google Cloud Corte"
   export: override_required
 }
 
