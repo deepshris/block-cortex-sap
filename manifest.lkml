@@ -14,6 +14,6 @@ constant: REPORTING_DATASET {
 }
 
 constant: CLIENT {
-  value: "sap_client_mandt"
+  value: "Client_MANDT"
   export: override_required
 }
